@@ -2,7 +2,7 @@
 - 👀 I’m interested in datavis, infovis, design, code
 - 🌱 I’m currently learning a little bit of everything
 - 💞️ I’m looking to collaborate on surprise me
-- 📫 How to reach me @arranarranarran on twitter
+- 📫 How to reach me @arran_info on Instagram
 
 <!---
 arranr/arranr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
